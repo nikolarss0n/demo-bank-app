@@ -1,5 +1,7 @@
 # Banking app for the Fixing CI demo
 
+The Playwright tests live in `nikolarss0n/demo-fixing-tests`.
+
 This fixture copies the runtime source of `fibank-demo-app`, the Aster banking
 demo used by the Playwright `demo_fixing` project. `SOURCE-FILES.txt` lists the
 copied files. Application behavior, package versions, and the dependency lock
