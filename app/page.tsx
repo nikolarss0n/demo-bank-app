@@ -961,7 +961,7 @@ function BankingScreen() {
             </div>
             <Button
               className={`btn full-width freeze-button ${selectedCard.frozen ? 'btn-primary' : 'btn-outline'}`}
-              data-testid="card-freeze-toggle"
+              data-testid="freeze-card"
               onClick={() =>
                 updateCard(
                   selectedCard.id,
