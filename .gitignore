@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.vite/
+.wrangler/
+.env*
+*.log
+*.tsbuildinfo
+next-env.d.ts
+
+node_modules
